@@ -5,15 +5,8 @@
     {
       "idx": 0,
       "version": "7",
-      "when": 1726004835133,
-      "tag": "0000_melted_mac_gargan",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "7",
-      "when": 1726051449030,
-      "tag": "0001_slimy_sally_floyd",
+      "when": 1726054834472,
+      "tag": "0000_chubby_jimmy_woo",
       "breakpoints": true
     }
   ]
