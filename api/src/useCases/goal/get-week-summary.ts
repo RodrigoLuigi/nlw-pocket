@@ -69,7 +69,7 @@ export async function getWeekSummary() {
         ),
       goalsPerDay: sql`JSON_OBJECT_AGG(
           ${goalsCompletedByWeekDay.completedAtDate},
-          ${goalsCompletedByWeekDay.completions},
+          ${goalsCompletedByWeekDay.completions}
         )`,
     })
     .from(goalsCompletedByWeekDay)
