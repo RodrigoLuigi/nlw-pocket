@@ -1,1 +1,9 @@
 - npm i @biomejs/biome -D
+- npm install -D tailwindcss postcss autoprefixer
+- npx tailwindcss init -p
+- npm i lucide-react
+- npm i tailwind-merge
+- npm i @radix-ui/react-radio-group
+- npm i @radix-ui/react-progress
+- npm i @radix-ui/react-dialog
+- npm i tailwind-variants
