@@ -7,3 +7,5 @@
 - npm i @radix-ui/react-progress
 - npm i @radix-ui/react-dialog
 - npm i tailwind-variants
+- npm i @tanstack/react-query
+- npm i dayjs
