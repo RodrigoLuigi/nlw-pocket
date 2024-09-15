@@ -18,7 +18,7 @@
 
 <br>
 
-# Next Level Week Pocket 
+# Next Level Week 📋📆 Pocket 
 Conheça o in.Orbit
 Uma aplicação para gerenciamento de metas gamificada, onde o usuário cadastra metas semanais e pode controlar em tempo real a pontuação.
 
@@ -30,7 +30,7 @@ Uma aplicação para gerenciamento de metas gamificada, onde o usuário cadastra
 
 
 ### <img id="web" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**Stage 02: Frontend Web - ReactJs**_
-  Neste módulo, foi desenvolvido uma aplicação web para que usuários possam criar bolões da copa e compartilhar o código do bolão para que outros usuários possam participar.
+  Neste módulo, foi desenvolvido uma aplicação web para criar metas semanais e acompanhar o progresso das metas cumpridas.
 
   🔗  [Frontend Web](https://github.com/RodrigoLuigi/nlw-pocket/tree/main/web#top)<br>
 
