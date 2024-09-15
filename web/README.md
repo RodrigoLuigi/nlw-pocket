@@ -9,3 +9,5 @@
 - npm i tailwind-variants
 - npm i @tanstack/react-query
 - npm i dayjs
+- npm i react-hook-form @hookform/resolvers
+- npm i zod
