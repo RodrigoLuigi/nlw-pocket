@@ -87,6 +87,10 @@ $ cd api
 $ npm install
 # Criar arquivo .env e configurar variáveis de ambiente
 DATABASE_URL:
+# Rode as migrations
+$ npx drizzle-kit migrate
+# Seeds
+$ npm run seeds
 # Execute o projeto com npm
 $ npm run dev
 # O Server irá inicializar em http://localhost:3333
@@ -99,7 +103,7 @@ $ npm run dev
 /goals
 # [POST] Registra meta completa
 /completions
-# [GET] Listar metas metas pendentes
+# [GET] Listar metas pendentes
 /pending-goals
 # [GET] Listar resumo de metas da semana
 /summary
