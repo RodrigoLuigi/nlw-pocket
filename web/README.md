@@ -14,9 +14,9 @@
 ## Screenshots
 
 <div align="center">
-  <img src="nlw-pocket-1.png" width="270px" height="200px">
-  <img src="nlw-pocket-2.png" width="270px" height="200px">
-  <img src="nlw-pocket-3.png" width="270px" height="200px">
+  <img src="./public/nlw-pocket-1.png" width="270px" height="200px">
+  <img src="./public/nlw-pocket-2.png" width="270px" height="200px">
+  <img src="./public/nlw-pocket-3.png" width="270px" height="200px">
 </div>
 
 <br><hr>
