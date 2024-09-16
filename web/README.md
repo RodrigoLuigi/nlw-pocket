@@ -9,10 +9,17 @@
   <a href="https://github.com/RodrigoLuigi" target="_blank">Author</a>
 </p>
 
-## Screenshots
-![App Screenshot]()
-
 <br>
+
+## Screenshots
+
+<div align="center">
+  <img src="nlw-pocket-1.png" width="270px" height="200px">
+  <img src="nlw-pocket-2.png" width="270px" height="200px">
+  <img src="nlw-pocket-3.png" width="270px" height="200px">
+</div>
+
+<br><hr>
 
 ## <img id="sobre" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
