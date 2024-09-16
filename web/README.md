@@ -14,9 +14,9 @@
 ## Screenshots
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="./public/nlw-pocket-1.png" width="270px" height="200px" style="flex: 1;">
-  <img src="./public/nlw-pocket-2.png" width="270px" height="200px" style="flex: 1;">
-  <img src="./public/nlw-pocket-3.png" width="270px" height="200px" style="flex: 1;">
+  <img src="./public/nlw-pocket-1.png"  height="200px" style="flex: 1;">
+  <img src="./public/nlw-pocket-2.png"  height="200px" style="flex: 1;">
+  <img src="./public/nlw-pocket-3.png"  height="200px" style="flex: 1;">
 </div>
 
 <br><hr>
