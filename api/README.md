@@ -22,7 +22,7 @@ Desenvolvimento de uma aplicação back-end em Node.js, aplicação dos conceito
 :heavy_check_mark: Criação de metas\
 :heavy_check_mark: Criação de metas completas\
 :heavy_check_mark: Listar metas pendentes\
-:hammer_and_wrench: Listar metas concluídas da semana
+:heavy_check_mark: Listar metas concluídas da semana
 
 ## 👨‍💻 Tecnologias ##
 
