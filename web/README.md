@@ -24,58 +24,36 @@ Desenvolvimento de uma aplicação front-end em ReactJS, aplicação dos conceit
 :heavy_check_mark: Registro de metas completas\
 :heavy_check_mark: Listagem de metas por dia da semana
 
-## 👨‍💻 Tecnologias ##
+## 👨‍💻 Tecnologias
 
-As seguintes ferramentas foram usadas neste projeto:
+| Ferramenta      | Descrição                                                                               |
+| --------------- | --------------------------------------------------------------------------------------- |
+| [ReactJs](https://react.dev/) | Biblioteca JavaScript para construir interfaces de usuário.                |
+| [TypeScript](https://www.typescriptlang.org/) | Superset do JavaScript que adiciona tipagem estática.         |
+| [Vite](https://vitejs.dev/)   | Ferramenta de build rápida para projetos web modernos.                     |
+|                               | Instalação: `npm create vite@latest`                                       |
+|                               | Inicializar projeto com Vite: `npm create vite@latest my-app`              |
 
-- [ReactJs](https://react.dev/)
+---
 
-- [TypeScript](https://www.typescriptlang.org/)
+## 📚 Bibliotecas
 
-- [Vite](https://vitejs.dev/)
-  - Instalação: `npm create vite@latest`
-  - Inicializar projeto com Vite: `npm create vite@latest my-app`
+| Biblioteca      | Instalação                                                                              |
+| --------------- | --------------------------------------------------------------------------------------- |
+| [Biome](https://biomejs.dev/)                  | `npm i @biomejs/biome -D`                                       |
+| [Tailwind CSS](https://tailwindcss.com/)       | `npm install -D tailwindcss postcss autoprefixer`               |
+| PostCSS e Autoprefixer                         | Inicializar Tailwind: `npx tailwindcss init -p`                 |
+| [Lucide React](https://www.npmjs.com/package/lucide-react) | `npm i lucide-react`                                         |
+| [Tailwind Merge](https://www.npmjs.com/package/tailwind-merge) | `npm i tailwind-merge`                                   |
+| [Radix UI - Radio Group](https://www.npmjs.com/package/@radix-ui/react-radio-group) | `npm i @radix-ui/react-radio-group` |
+| [Radix UI - Progress](https://www.npmjs.com/package/@radix-ui/react-progress) | `npm i @radix-ui/react-progress` |
+| [Radix UI - Dialog](https://www.npmjs.com/package/@radix-ui/react-dialog) | `npm i @radix-ui/react-dialog`   |
+| [Tailwind Variants](https://www.npmjs.com/package/tailwind-variants) | `npm i tailwind-variants`             |
+| [TanStack React Query](https://tanstack.com/query/latest) | `npm i @tanstack/react-query`                             |
+| [Day.js](https://day.js.org/)                 | `npm i dayjs`                                                   |
+| [React Hook Form](https://react-hook-form.com/) e [HookForm Resolvers](https://www.npmjs.com/package/@hookform/resolvers) | `npm i react-hook-form @hookform/resolvers` |
+| [Zod](https://www.npmjs.com/package/zod)      | `npm i zod`                                                     |
 
-## 📚️ Bibliotecas ##
-
-As seguintes bibliotecas e ferramentas foram usadas neste projeto:
-
-- [Biome](https://biomejs.dev/)
-  - Instalação: `npm i @biomejs/biome -D`
-
-- [Tailwind CSS, PostCSS e Autoprefixer](https://tailwindcss.com/)
-  - Instalação: `npm install -D tailwindcss postcss autoprefixer`
-  - Inicializar Tailwind: `npx tailwindcss init -p`
-
-- [Lucide React](https://www.npmjs.com/package/lucide-react)
-  - Instalação: `npm i lucide-react`
-
-- [Tailwind Merge](https://www.npmjs.com/package/tailwind-merge)
-  - Instalação: `npm i tailwind-merge`
-
-- [Radix UI - Radio Group](https://www.npmjs.com/package/@radix-ui/react-radio-group)
-  - Instalação: `npm i @radix-ui/react-radio-group`
-
-- [Radix UI - Progress](https://www.npmjs.com/package/@radix-ui/react-progress)
-  - Instalação: `npm i @radix-ui/react-progress`
-
-- [Radix UI - Dialog](https://www.npmjs.com/package/@radix-ui/react-dialog)
-  - Instalação: `npm i @radix-ui/react-dialog`
-
-- [Tailwind Variants](https://www.npmjs.com/package/tailwind-variants)
-  - Instalação: `npm i tailwind-variants`
-
-- [TanStack React Query](https://tanstack.com/query/latest)
-  - Instalação: `npm i @tanstack/react-query`
-
-- [Day.js](https://day.js.org/)
-  - Instalação: `npm i dayjs`
-
-- [React Hook Form e HookForm Resolvers](https://react-hook-form.com/)
-  - Instalação: `npm i react-hook-form @hookform/resolvers`
-
-- [Zod](https://www.npmjs.com/package/zod)
-  - Instalação: `npm i zod`
 
 ## 📝 Requisitos ##
 
