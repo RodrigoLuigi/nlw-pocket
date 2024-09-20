@@ -37,7 +37,7 @@ Uma aplicação para gerenciamento de metas gamificada, onde o usuário cadastra
 </br>
 
 ## :memo: Licença ##
- MIT License. Para mais detalhes veja em [LICENSE](./LICENSE).
+ MIT License. Para mais detalhes veja em [LICENSE]().
 
 &#xa0;
 
